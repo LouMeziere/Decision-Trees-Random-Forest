@@ -1,12 +1,15 @@
-# Decision-Trees-Random-Forest
+# Loan Repayment Predictor: Decision-Trees vs. Random-Forest Models
+
 
 # Description: Predicting Loan Repayment Using Lending Club Data
 
 The objective of this project is to analyze a dataset from LendingClub.com to predict whether borrowers will fully repay their loans. Lending Club serves as a platform connecting borrowers with investors, emphasizing the need for accurate prediction of loan repayment likelihood. We will develop and compare two models, a decision tree and a random forest, to determine which performs better for this dataset. By leveraging borrower characteristics and credit metrics, our goal is to enhance investment decision-making and mitigate risks associated with loan defaults.
 
+
 # Libraries
 
 scikit-learn, pandas, seaborn, matplotlib
+
 
 # Table of Contents
 
@@ -36,3 +39,14 @@ You can download the dataset [here](https://www.lendingclub.com/info/download-da
 - `inq.last.6mths`: Number of inquiries by creditors in the last 6 months.
 - `delinq.2yrs`: Number of times borrower was 30+ days past due on a payment in the past 2 years.
 - `pub.rec`: Number of derogatory public records (e.g., bankruptcy filings, tax liens).
+
+
+# Instructions
+
+No inputs are required from the user. Simply run all cells in the jupiter notebook.
+
+
+# Author
+
+Lou Meziere
+
