@@ -1,7 +1,7 @@
 # Loan Repayment Predictor: Decision-Trees vs. Random-Forest Models
 
 
-# Description: Predicting Loan Repayment Using Lending Club Data
+# Description 
 
 The objective of this project is to analyze a dataset from LendingClub.com to predict whether borrowers will fully repay their loans. Lending Club serves as a platform connecting borrowers with investors, emphasizing the need for accurate prediction of loan repayment likelihood. We will develop and compare two models, a decision tree and a random forest, to determine which performs better for this dataset. By leveraging borrower characteristics and credit metrics, our goal is to enhance investment decision-making and mitigate risks associated with loan defaults.
 
